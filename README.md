@@ -1,2 +1,2 @@
 # Predicting Income
-Modelo de predicción de ingresos dónde aplicaremos los conceptos aprendidos en la clase de Big Data y Machine Learning. Para ello se usaran datos de Bogotá del Informe de “Medición de Pobreza Monetaria y Desigualdad 2018” que toma información de la GEIH.
+Aplicaremos los conceptos aprendidos en la clase de Big Data y Machine Learning para construir un modelo de predicción de ingresos, utilizando datos de Bogotá del informe Medición de Pobreza Monetaria y Desigualdad 2018, elaborado con información de la GEIH.
